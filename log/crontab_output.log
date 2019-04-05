@@ -1,3 +1,11 @@
 /bin/sh: node: command not found
 /bin/sh: node: command not found
 /bin/sh: /Users/qiyanwang/Documents/Javascript/Projects/projecs/run_task.sh: Permission denied
+stdout: [master 1a28c96] update
+ 3 files changed, 6 insertions(+)
+ create mode 100644 log/crontab_output.log
+ create mode 100644 run_task.sh
+
+stderr: To https://github.com/QiyanWong/project-crafts.git
+   ca89052..1a28c96  master -> master
+
