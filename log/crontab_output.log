@@ -96,3 +96,6 @@ fatal: could not read Username for 'https://github.com': Device not configured
 error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push origin master
 fatal: could not read Username for 'https://github.com': Device not configured
 
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push origin master
+fatal: could not read Username for 'https://github.com': Device not configured
+
