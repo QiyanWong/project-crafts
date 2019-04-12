@@ -87,3 +87,6 @@ stdout: [master e0c8e4c] update
 stderr: To https://github.com/QiyanWong/project-crafts.git
    1888f2b..e0c8e4c  master -> master
 
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push origin master
+fatal: could not read Username for 'https://github.com': Device not configured
+
