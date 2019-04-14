@@ -174,7 +174,7 @@ const crawlerMeta = new crawler({
 
 const updateGit = () => {
   // 需要先进入到代码所在的目录，再进行git操作
-  const cmd = 'cd '+ __dirname + ' && git add --all :/ && git commit -m "update" && git push origin master';
+  const cmd = 'cd '+ __dirname + ' && git add --all :/ && git commit -m "update" && git push -u origin master';
   utils.exec_cmd(cmd);
 }
 
