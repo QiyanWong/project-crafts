@@ -9,3 +9,10 @@ stderr: To github.com:QiyanWong/project-crafts.git
 /bin/sh: node: command not found
 /bin/sh: node: command not found
 /bin/sh: node: command not found
+stdout: [master 38e368e] update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   5ad658a..38e368e  master -> master
+
