@@ -135,3 +135,10 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    2741038..ec308dc  master -> master
 
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push -u origin master
+Connection reset by 192.30.255.113 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
