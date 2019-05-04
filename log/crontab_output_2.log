@@ -304,3 +304,10 @@ stderr: To github.com:QiyanWong/project-crafts.git
    c4bc0bf..cda5b64  master -> master
 
 2019-05-03T07:03:34.508Z - error: CRAWLER Error Error: read ECONNRESET when fetching https://github.com/explore?trending=repositories#trending (3 retries left)
+stdout: [master 587444f] update
+ 2 files changed, 8 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   cda5b64..587444f  master -> master
+
