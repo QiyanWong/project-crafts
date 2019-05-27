@@ -661,3 +661,15 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    b19ea8f..6736856  master -> master
 
+stdout: [master 6269f50] update
+ 2 files changed, 7 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   6736856..6269f50  master -> master
+
+2019-05-27T02:33:42.230Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending (3 retries left)
+2019-05-27T02:33:52.558Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending (2 retries left)
+2019-05-27T02:34:02.656Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending (1 retries left)
+2019-05-27T02:34:12.775Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending
+写入成功
