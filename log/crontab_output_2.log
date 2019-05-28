@@ -673,3 +673,11 @@ stderr: To github.com:QiyanWong/project-crafts.git
 2019-05-27T02:34:02.656Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending (1 retries left)
 2019-05-27T02:34:12.775Z - error: CRAWLER Error Error: getaddrinfo ENOTFOUND github.com github.com:443 when fetching https://github.com/explore?trending=repositories#trending
 写入成功
+stdout: [master 2c4ac8d] update
+ 3 files changed, 13 insertions(+)
+ create mode 100644 error/2019-05-26T19-34-12.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   6269f50..2c4ac8d  master -> master
+
