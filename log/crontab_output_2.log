@@ -756,3 +756,10 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    68c489c..4084540  master -> master
 
+stdout: [master fe6bc92] update
+ 2 files changed, 7 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   4084540..fe6bc92  master -> master
+
