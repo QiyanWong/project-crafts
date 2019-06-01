@@ -744,3 +744,8 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    c0c79fd..0e7daf6  master -> master
 
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push -u origin master
+packet_write_wait: Connection to 192.30.255.113 port 22: Broken pipe
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+
