@@ -798,3 +798,11 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    d64c7e6..1660972  master -> master
 
+stdout: [master a680f84] update
+ 2 files changed, 7 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   1660972..a680f84  master -> master
+
+2019-06-03T22:34:10.533Z - error: CRAWLER Error Error: ESOCKETTIMEDOUT when fetching https://github.com/explore?trending=repositories#trending (3 retries left)
