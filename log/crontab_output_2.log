@@ -818,3 +818,10 @@ packet_write_wait: Connection to 192.30.253.112 port 22: Broken pipe
 fatal: the remote end hung up unexpectedly
 fatal: the remote end hung up unexpectedly
 
+stdout: [master 3f46c81] update
+ 2 files changed, 12 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   0cb6e40..3f46c81  master -> master
+
