@@ -806,3 +806,15 @@ stderr: To github.com:QiyanWong/project-crafts.git
    1660972..a680f84  master -> master
 
 2019-06-03T22:34:10.533Z - error: CRAWLER Error Error: ESOCKETTIMEDOUT when fetching https://github.com/explore?trending=repositories#trending (3 retries left)
+stdout: [master 0cb6e40] update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   9b22cc6..0cb6e40  master -> master
+
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push -u origin master
+packet_write_wait: Connection to 192.30.253.112 port 22: Broken pipe
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+
