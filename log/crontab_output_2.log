@@ -1078,3 +1078,11 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 stderr: To github.com:QiyanWong/project-crafts.git
    cfb8a85..c62fc35  master -> master
 
+stdout: [master 1a2f76c] update
+ 2 files changed, 7 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: To github.com:QiyanWong/project-crafts.git
+   c62fc35..1a2f76c  master -> master
+
+2019-06-17T22:30:16.553Z - error: CRAWLER Error Error: ETIMEDOUT when fetching https://github.com/explore?trending=repositories#trending (3 retries left)
