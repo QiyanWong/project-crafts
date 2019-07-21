@@ -1769,3 +1769,14 @@ remote:
 To github.com:QiyanWong/project-crafts.git
    b934e3c..a4bb603  master -> master
 
+stdout: [master 2907910] update
+ 2 files changed, 11 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: remote: 
+remote: GitHub found 2 vulnerabilities on QiyanWong/project-crafts's default branch (2 high). To find out more, visit:        
+remote:      https://github.com/QiyanWong/project-crafts/network/alerts        
+remote: 
+To github.com:QiyanWong/project-crafts.git
+   a4bb603..2907910  master -> master
+
