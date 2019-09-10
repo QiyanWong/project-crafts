@@ -3148,3 +3148,17 @@ error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/
 error: file write error: No space left on device
 fatal: unable to write sha1 file
 
+stdout: [master 735917a] update
+ 2 files changed, 15 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: remote: 
+remote: GitHub found 2 vulnerabilities on QiyanWong/project-crafts's default branch (2 critical). To find out more, visit:        
+remote:      https://github.com/QiyanWong/project-crafts/network/alerts        
+remote: 
+To github.com:QiyanWong/project-crafts.git
+   e5ca641..735917a  master -> master
+error: failed to write new configuration file /Users/qiyanwang/Documents/Javascript/Projects/projecs/.git/config.lock
+error: failed to write new configuration file /Users/qiyanwang/Documents/Javascript/Projects/projecs/.git/config.lock
+error: update_ref failed for ref 'refs/remotes/origin/master': cannot update ref 'refs/remotes/origin/master': couldn't write '/Users/qiyanwang/Documents/Javascript/Projects/projecs/.git/refs/remotes/origin/master.lock'
+
