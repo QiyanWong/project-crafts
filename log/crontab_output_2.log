@@ -3133,3 +3133,18 @@ remote:
 To github.com:QiyanWong/project-crafts.git
    c88feff..e21d3c8  master -> master
 
+stdout: [master e5ca641] update
+ 2 files changed, 11 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+stderr: remote: 
+remote: GitHub found 2 vulnerabilities on QiyanWong/project-crafts's default branch (2 critical). To find out more, visit:        
+remote:      https://github.com/QiyanWong/project-crafts/network/alerts        
+remote: 
+To github.com:QiyanWong/project-crafts.git
+   e21d3c8..e5ca641  master -> master
+
+error: Error: Command failed: cd /Users/qiyanwang/Documents/Javascript/Projects/projecs && git add --all :/ && git commit -m "update" && git push -u origin master
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+
